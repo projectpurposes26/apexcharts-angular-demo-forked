@@ -1,0 +1,5 @@
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 16px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 8px; border-bottom: 1px solid #eee; text-align: left; vertical-align: middle; }
+.row { display: flex; flex-wrap: wrap; gap: 16px; }
+.col-md-4 { flex: 1 1 30%; min-width: 240px; }
